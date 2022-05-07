@@ -5,7 +5,7 @@ Hey there! I'm Ryan Campbell, I am a 3rd year Computer Science student at the Un
 
 This GitHub has a few of the projects I have worked on over the years to help me get a better understanding of different topics in Computer Science, such as Object Oriented Programming, Databases, Operating Systems along with some technical writing.
 
-Most of these projects are largely incomplete and will be improved.
+Most of these projects are largely incomplete and will be improved when I have some time between my studies, work and personal life.
 
 
 ### Some of the more complete projects include:
