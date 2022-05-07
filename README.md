@@ -15,6 +15,4 @@ https://github.com/RyanDCampbell/Scheduling
 
 https://github.com/RyanDCampbell/How-to-Host-a-Resume-on-GitHub-Pages
 
-https://github.com/RyanDCampbell/ResumeReadMe
-
 Thanks for checking out my GitHub :)
