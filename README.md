@@ -7,9 +7,9 @@ Most of the projects are largely incomplete.
 
 Some of the more complete projects include:
 
-https://github.com/RyanDCampbell/Pokedex
-
 https://github.com/RyanDCampbell/Clue
+
+https://github.com/RyanDCampbell/Pokedex
 
 https://github.com/RyanDCampbell/Scheduling
 
