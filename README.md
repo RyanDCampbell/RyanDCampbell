@@ -17,4 +17,4 @@ https://github.com/RyanDCampbell/How-to-Host-a-Resume-on-GitHub-Pages
 
 Thanks for checking out my GitHub :)
 
-![GitHub Meme](./GitHub Meme.jpg)
+![GitHub Meme](https://github.com/RyanDCampbell/RyanDCampbell/blob/cecfd1fd7527e5cbf8ad099963f77407d74c5a77/GitHub%20Meme.jpg)
