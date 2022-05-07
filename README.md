@@ -24,7 +24,7 @@ https://github.com/RyanDCampbell/Pokedex
 
 <b> Scheduling </b>
 
-The program was an experiment to simulate and compare the performance between different Operating System scheduling policies.
+This program was written as an experiment to compare the performance between different single and multi-threaded workloads using different Operating System scheduling policies. There is support for two different Operating System schedualing policies: Shortest Job First (SJF) and Multi-level Feedback Queue (MLFQ).
 
 https://github.com/RyanDCampbell/Scheduling
 
