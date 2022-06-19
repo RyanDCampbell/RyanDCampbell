@@ -28,7 +28,7 @@ This program was written as an experiment to compare the performance between dif
 
 https://github.com/RyanDCampbell/Scheduling
 
-<b> How to Host a Resume on HitHub Pages </b>
+<b> How to Host a Resume on GitHub Pages </b>
 
 This guide walks the reader through all the steps they need to host their own static website using GitHub Pages and Jekyll.
 
