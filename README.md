@@ -18,7 +18,7 @@ https://github.com/RyanDCampbell/Clue
 
 <b> Pokedex </b>
 
-This is a command-line Pokedex based on gen 1. Pokemon has always been a huge part of my life, putting hundreds of hours into Pokemon Blue on my Game Boy Colour as a kid. When studying databases, makkng a Pokedex was the first thing to come to mind.
+This is a command-line Pokedex based on gen 1. Pokemon has always been a huge part of my life, putting hundreds of hours into Pokemon Blue on my Game Boy Colour as a kid. When studying databases, making a Pokedex was the first thing to come to mind.
 
 https://github.com/RyanDCampbell/Pokedex
 
