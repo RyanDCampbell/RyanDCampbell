@@ -1,7 +1,7 @@
 
 ## About Me
 
-Hey there! I'm Ryan Campbell, I am a 3rd year Computer Science student at the University of Manitoba who is passionate about technology. 
+Hey there! I'm Ryan Campbell, I am a 4th year Computer Science Honours student at the University of Manitoba who is passionate about technology. 
 
 This GitHub has a few of the projects I have worked on over the years to help me get a better understanding of different topics in Computer Science, such as Object Oriented Programming, Databases, Operating Systems along with some technical writing.
 
